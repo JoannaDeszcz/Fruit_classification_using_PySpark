@@ -1,3 +1,5 @@
+# Fruit classification based on feature analysis 
+
 This project focuses on the classification analysis of a dataset that contains extensive information on a variety of fruit-related characteristics. The main objective is to compare classification models: **decision tree and logistic regression** to identify and classify apples as good or poor quality fruit based on their unique characteristics, in order to ultimately perform classification on the new data. 
 
 Steps to implement the core part of the project:
